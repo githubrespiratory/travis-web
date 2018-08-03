@@ -142,6 +142,11 @@ export default create({
     trial: {
       scope: '.billing',
       name: text('[data-test-trial-message]'),
+
+      link: {
+        scope: '[data-test-trial-link]',
+        href: attribute('href')
+      }
     },
 
     address: {

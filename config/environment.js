@@ -42,6 +42,7 @@ module.exports = function (environment) {
       community: 'https://travis-ci.community',
       blog: 'https://blog.travis-ci.com',
       docs: 'https://docs.travis-ci.com',
+      gettingStarted: 'https://docs.travis-ci.com/user/getting-started/#to-get-started-with-travis-ci',
       status: 'https://www.traviscistatus.com/',
       imprint: 'https://docs.travis-ci.com/imprint.html',
       enterprise: 'https://enterprise.travis-ci.com',
